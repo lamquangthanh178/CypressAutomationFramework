@@ -5,7 +5,7 @@ Cypress helps us write automated tests for the web without Selenium WebDriver- A
 
 # How to run test
 
-git clone https://github.com/lamquangthanh178/CypressAutomation.git
+git clone https://github.com/lamquangthanh178/CypressAutomationFramework.git
 
 cd to CypressFW
 
